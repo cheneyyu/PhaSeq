@@ -38,6 +38,9 @@ Output file: uniprot.txt
 ## Author:
 This software is written by Chunyu Yu.
 
+## Cite us:
+If you fell this work useful, please cite:
 
 
+Yu et.al, PhaSeq: predicting protein liquid-liquid phase separation with structural transfer learning (Submitted work)
 
