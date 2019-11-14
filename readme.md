@@ -43,5 +43,5 @@ This software is written by Chunyu Yu.
 If you fell this work useful, please cite:
 
 
-Yu et.al, PhaSeq: predicting protein liquid-liquid phase separation with structural transfer learning (Submitted work)
+Yu et.al, PhaSeq: predicting protein liquid-liquid phase separation with structural transfer learning (Submitted work).
 
