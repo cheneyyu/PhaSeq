@@ -1,4 +1,4 @@
-## A Liquid-Liquid Phase Separation predictor
+## PhaSeq: predicting protein liquid-liquid phase separation with structural transfer learning
 
 This repository contains the download link of the code for PhaSeq, a predictor of protein liquid-liquid phase separation.
 
