@@ -2,7 +2,7 @@
 
 This repository contains the download link of the code for PhaSeq, a predictor of protein liquid-liquid phase separation.
 
-PhaSeq could be download via [this link](https://www.anaconda.com/download).
+PhaSeq could be download via [this link](http://db.phasep.pro/static/PhaSeq.zip).
 
 ## How to use:
 
