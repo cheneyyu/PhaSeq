@@ -18,6 +18,10 @@ Check the requirments.txt file, but primarily:
 - biopython == 1.72
 - tqdm >= 4
 
+After entering the file directory of PhaSeq, You can use follow code to install all requirments.
+`
+pip install -r requirments.txt
+`
 
 ## Example: prediction of a fasta file.
 
