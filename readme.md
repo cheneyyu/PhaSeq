@@ -1,7 +1,8 @@
 ## A Liquid-Liquid Phase Separation predictor
 
-This repository contains the code for PhaSeq, a predictor of protein liquid-liquid phase separation.
+This repository contains the download link of the code for PhaSeq, a predictor of protein liquid-liquid phase separation.
 
+PhaSeq could be download via [this link](https://www.anaconda.com/download).
 
 ## How to use:
 
