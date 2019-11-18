@@ -2,7 +2,7 @@
 
 This repository contains the download link of the code for PhaSeq, a predictor of protein liquid-liquid phase separation.
 
-PhaSeq could be download via [this link](http://db.phasep.pro/static/PhaSeq.zip).
+PhaSeq could be download via [Google Drive (faster)](https://drive.google.com/uc?id=1aSUeEyYBxNNI5-4tSvcDBp0C4IOZ_C8F&export=download) or [our local server (slower)](http://db.phasep.pro/static/PhaSeq.zip).
 
 ## How to use:
 
