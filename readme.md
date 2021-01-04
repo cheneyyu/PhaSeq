@@ -22,7 +22,9 @@ After entering the file directory of PhaSeq, you can use the following code to i
 `
 pip install -r requirments.txt
 `
+
 If users failed to install torch==0.4.1, please try
+
 `
 conda install pytorch=0.4.1 -c pytorch
 `
